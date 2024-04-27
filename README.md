@@ -5,3 +5,4 @@
 ##[Assignment-8]https://github.com/2203a51202/AIML_Batch-5/blob/main/Assignment8.ipynb
 ##[Assignment-9]https://github.com/2203a51202/AIML_Batch-5/blob/main/Lab09_RF_Classification.ipynb
 ##[Assignment-1_1]https://github.com/2203a51202/AIML_Batch-5/blob/main/Assignment1-1.ipynb
+##[Assignment-1_2]https://github.com/2203a51202/AIML_Batch-5/blob/main/Assignment1-2.ipynb
