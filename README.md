@@ -8,3 +8,4 @@
 ##[Assignment-1_2]https://github.com/2203a51202/AIML_Batch-5/blob/main/Assignment1-2.ipynb
 ##[Assignment-3]https://github.com/2203a51202/AIML_Batch-5/blob/main/Assignment_3.ipynb
 ##[Assignment-6]https://github.com/2203a51202/AIML_Batch-5/blob/main/Assignment_06.ipynb
+##[Assignment-2]https://github.com/2203a51202/AIML_Batch-5/blob/main/Assignment_2.ipynb
